@@ -3,9 +3,24 @@
 <Document>
 	<name>BASEMAP.KMZ</name>
 	<Style id="area1">
-		<LineSt>
+		<LineStyle>
 			<color>ff0000ff</color>
-		</LineSt
+		</LineStyle>
+		<PolyStyle>
+			<color>bf000000</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="area2">
+		<LineStyle>
+			<color>ffff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf000000</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="line1">
 		<LineStyle>
 		</LineStyle>
 	</Style>
