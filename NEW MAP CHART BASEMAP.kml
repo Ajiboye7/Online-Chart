@@ -45,15 +45,6 @@
 		</LineStyle>
 	</Style>
 	<Style id="point1">
-		<IconStyle>
-			<Icon>
-				<href>kml_symbol_no symbol_0.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="point2">
-		<IconStyle>
-			<Icon>
 				<href>kml_symbol_dot_0.png</href>
 			</Icon>
 		</IconStyle>
