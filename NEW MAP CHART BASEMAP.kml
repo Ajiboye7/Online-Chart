@@ -38,6 +38,30 @@
 		<LineStyle>
 			<color>ff0000ff</color>
 		</LineStyle>
+	</Style>
+	<Style id="line5">
+		<LineStyle>
+			<color>ffff0000</color>
+		</LineStyle>
+	</Style>
+	<Style id="point1">
+		<IconStyle>
+			<Icon>
+				<href>kml_symbol_no symbol_0.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="point2">
+		<IconStyle>
+			<Icon>
+				<href>kml_symbol_dot_0.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Point Features</name>
+		<description>Point Features</description>
+		<Placemark>
 			<name>Ikeja</name>
 			<description>0</description>
 			<styleUrl>#point1</styleUrl>
