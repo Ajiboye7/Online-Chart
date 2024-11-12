@@ -62,6 +62,12 @@
 		<name>Point Features</name>
 		<description>Point Features</description>
 		<Placemark>
+			<name>Ikeja</name>
+			<description>0</description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>3.3459617204,6.6008978643,0</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Kosofe</name>
