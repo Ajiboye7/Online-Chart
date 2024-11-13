@@ -60,18 +60,7 @@
 	</Style>
 	<Folder>
 		<name>Point Features</name>
-		<description>Point Features</description>
-		<Placemark>
-			<name>Ikeja</name>
-			<description>0</description>
-			<styleUrl>#point1</styleUrl>
-			<Point>
-				<coordinates>3.3459617204,6.6008978643,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Kosofe</name>
-			<description>0</description>
+		<description>Point Feat
 			<styleUrl>#point1</styleUrl>
 			<Point>
 				<coordinates>3.4042823704,6.5932602344,0</coordinates>
