@@ -8,13 +8,7 @@
 		</LineStyle>
 		<PolyStyle>
 			<color>bf000000</color>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="area2">
-		<LineStyle>
-			<color>ffff0000</color>
-		</LineStyle>
+			<fil
 		<PolyStyle>
 			<color>bf000000</color>
 			<fill>0</fill>
