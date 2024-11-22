@@ -22,7 +22,19 @@
 	</Style>
 	<Style id="line1">
 		<LineStyle>
-		<
+		</LineStyle>
+	</Style>
+	<Style id="line2">
+		<LineStyle>
+			<color>ffbd00bd</color>
+		</LineStyle>
+	</Style>
+	<Style id="line3">
+		<LineStyle>
+			<color>ff00ff00</color>
+		</LineStyle>
+	</Style>
+	<Style id="line4">
 		<LineStyle>
 			<color>ff0000ff</color>
 		</LineStyle>
