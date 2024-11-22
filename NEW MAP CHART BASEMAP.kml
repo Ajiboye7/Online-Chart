@@ -8,7 +8,13 @@
 		</LineStyle>
 		<PolyStyle>
 			<color>bf000000</color>
-			<fil
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="area2">
+		<LineStyle>
+			<color>ffff0000</color>
+		</LineStyle>
 		<PolyStyle>
 			<color>bf000000</color>
 			<fill>0</fill>
@@ -35,18 +41,7 @@
 	</Style>
 	<Style id="line5">
 		<LineStyle>
-			<color>ffff0000</color>
-		</LineStyle>
-	</Style>
-	<Style id="point1">
-		<IconStyle>
-			<Icon>
-				<href>kml_symbol_no symbol_0.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="point2">
-		<IconStyle>
+			<colo
 			<Icon>
 				<href>kml_symbol_dot_0.png</href>
 			</Icon>
